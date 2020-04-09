@@ -6,7 +6,9 @@ Main repo is private and exists on microsoft team services.
 
 Dev version of service runned on azure web services: http://vshopedev.azurewebsites.net/home
 To login by test company use this credentials:
+
 Login: test@test.test
+
 Password: test123
 
 Web service runned on free tier, and for db used local azure mySql db functionallity - so there may be some perfomance issues.
