@@ -8,6 +8,7 @@ Dev version of service runned on azure web services: http://vshopedev.azurewebsi
 To login by test company use this credentials:
 
 Login: test@test.test
+
 Password: test123
 
 Web service runned on free tier, and for db used local azure mySql db functionallity - so there may be some perfomance issues.
