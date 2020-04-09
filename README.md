@@ -4,7 +4,7 @@ Vshope is a service for converting Vkontakte group products to Avito xml.
 This is just example of code. So some private information in files was deleted.
 Main repo is private and exists on microsoft team services.
 
-Dev version of service runned on azure web services: http://vshopedev.azurewebsites.net/home
+Dev version of service runned on azure web services: http://vshopedev.azurewebsites.net/home.
 To login by test company use this credentials:
 
 Login: test@test.test
