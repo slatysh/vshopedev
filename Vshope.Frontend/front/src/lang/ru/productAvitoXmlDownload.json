@@ -1,0 +1,12 @@
+{
+    "name": "Выгрузка XML из Avito",
+
+    "dateStart": "Дата начала объявления",
+    "dateFinish": "Дата окончания объявления",
+    "vkStr": "Строковый Id группы VK",
+    "managerName": "Имя менеджера",
+    "address": "Адрес",
+    "contactPhone": "Контактный телефон",
+    "password": "Пароль",
+    "productAdditionalDesc": "Дополнительное описание к каждому продукту"
+}

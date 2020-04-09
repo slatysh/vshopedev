@@ -1,0 +1,15 @@
+{
+    "name": "Наименование",
+    "vkStr": "Строковый Id группы VK",
+    "managerName": "Имя менеджера",
+    "contactPhone": "Контактный телефон",
+    "address": "Адрес",
+    "email": "Email",
+    "password": "Пароль",
+    "productAdditionalDesc": "Дополнительное описание к каждому продукту",
+
+    "exceptionUserAlreadyExist": "Компания с таким email уже существует",
+    "exceptionVkIdInvalid": "VK Id компании невалиден",
+    "exceptionVkAuthTokenInvalid": "VK Auth Token компании невалиден",
+    "companyUpdateSuccess": "Компания успешно обновлена"
+}

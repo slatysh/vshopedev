@@ -1,0 +1,80 @@
+.theme--light.v-text-field .v-input__slot:before {
+    border-color: $input-color !important;
+  }
+
+  .input--is-focused .v-input__control .v-input__slot:after{
+    border-color: red !important;
+  }
+
+  .v-text-field__slot {
+    input {
+      @include material-placeholder{
+        color: $input-color;
+      };
+    }
+
+    .v-label {
+      color: $label-color;
+      font-size: $font-size-default;
+      font-weight: $font-weight-base;
+    }
+  }
+
+  .v-select__slot {
+    input {
+      @include material-placeholder{
+        color: $input-color;
+      };
+    }
+
+    .v-label {
+      color: $label-color;
+      font-size: $font-size-default;
+      font-weight: $font-weight-base;
+    }
+  }
+
+  .theme--light.v-input:not(.v-input--is-disabled) input,
+  .theme--light.v-input:not(.v-input--is-disabled) textarea {
+    color: $black-color;
+    font-size: $font-size-default;
+  }
+
+  @include inputs-color($brand-first, 'first');
+  @include inputs-color($brand-second, 'second');
+  @include inputs-color($brand-third, 'third');
+  @include inputs-color($brand-fourth, 'fourth');
+  @include inputs-color($brand-fifth, 'fifth');
+
+  .md-field{
+    margin-bottom: 16px;
+    label {
+      color: $label-color;
+      font-size: $font-size-default;
+      font-weight: $font-weight-base;
+    }
+    &.md-has-value{
+      label {
+          font-size: $font-size-smallmini;
+      }
+    }
+    &.md-focused{
+      label {
+          font-size: $font-size-smallmini;
+      }
+    }
+  }
+
+  label.md-label {
+      color: $label-color;
+      font-size: $font-size-smallmini;
+      font-weight: $font-weight-base;
+  }
+
+  .v-input:not(.with-spin-button) input[type='number'] {
+      -moz-appearance:textfield;
+  }
+  .v-input:not(.with-spin-button) input::-webkit-outer-spin-button,
+  .v-input:not(.with-spin-button) input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+  }

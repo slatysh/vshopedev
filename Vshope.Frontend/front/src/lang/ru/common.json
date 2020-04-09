@@ -1,0 +1,29 @@
+{
+  "appName": "Vshope",
+  "appNameDefault": "Vshope (Local)",
+  "appNameDev": "Vshope (Dev)",
+  "appNameProd": "Vshope (Prod)",
+
+  "needHelp": "Нужна помощь?",
+
+  "home": "Домашняя",
+  "companyAccountCreator": "Создание компании",
+  "companyManager": "Менеджер компаний",
+  "company": "Компания",
+  "invoiceManager": "Менеджер счетов",
+  "about": "О компании",
+  "develop": "Для разработки",
+  "userProfile": "Профиль пользователя",
+  "vkAuth": "VK аутентификация",
+  "productList": "Список товаров",
+
+  "submit": "Принять",
+  "close": "Закрыть",
+  "delete": "Удалить",
+  "yes": "Да",
+  "no": "Нет",
+
+  "error":{
+      "somethingWentWrong": "Что-то пошло не так"
+  }
+}

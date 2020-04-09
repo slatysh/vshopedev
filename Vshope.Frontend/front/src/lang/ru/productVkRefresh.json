@@ -1,0 +1,10 @@
+{
+    "name": "Обновление списка товаров из VK",
+
+    "shopId": "Id группы VK",
+    "shopStr": "Строковый Id группы VK",
+    "getAndSaveListFromVk":"Обновить данные о товарах на основе данных из VK?",
+    "getAndSaveListFromVkAcceptDialogTxt":"Вы действительно хотите обновить данные о товарах для магазина: {shopId}, количество товаров: {productCount}?",
+    "productGetAndSaveListFromVkFinished": "Обновление данных завершено",
+    "exceptionVkAuthTokenInvalid": "VK Auth Token компании невалиден"
+}

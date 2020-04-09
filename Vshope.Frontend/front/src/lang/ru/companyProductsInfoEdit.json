@@ -1,0 +1,10 @@
+{
+    "productType": "Тип товаров",
+    "productCategory": "Категория товаров",
+    "productGoodsType": "Подтип категории товаров",
+    "productApparel": "Тип одежды",
+    "productSize": "Размер",
+    "productCondition": "Состояние",
+    "productAdditionalDesc": "Дополнительное описание к каждому продукту"
+
+}

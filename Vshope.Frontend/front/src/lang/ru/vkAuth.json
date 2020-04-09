@@ -1,0 +1,6 @@
+{
+    "status": "Статус",
+    "statusPending": "Обработка",
+    "statusError": "Ошибка",
+    "statusSuccess": "Успешно"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Список товаров",
+
+  "itemVkId": "Vk Id",
+  "itemName": "Наименование",
+  "itemDescription": "Описание",
+  "itemPrice": "Цена"
+}

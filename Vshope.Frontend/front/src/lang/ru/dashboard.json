@@ -1,0 +1,15 @@
+{
+  "name": "Avito VK загрузчик",
+  "shopId": "Строковый идентификатор магазина",
+  "additionalDescForProduct": "Дополнительное описание к каждому продукту",
+  "dateStart": "Дата начала действия объявления",
+  "dateFinish": "Дата окончания действия объявления",
+  "size": "Размер",
+  "category": "Категория",
+  "goodsType": "Тип товаров",
+  "adType": "AdType",
+  "apparel": "Apparel",
+  "managerName": "Имя менеджера",
+  "contactPhone": "Телефон",
+  "address": "Адрес"
+}

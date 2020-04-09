@@ -1,0 +1,19 @@
+{
+  "name": "vshope-api-gen",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "parse-ini": "^1.0.6",
+    "swagger-vue": "^1.0.3"
+  },
+  "devDependencies": {},
+  "swagger": {
+    "remoteUrl": "/swagger/v100/swagger.json",
+    "className": "API",
+    "moduleName": "api.service",
+    "dest": "../front/src/services/api",
+    "envPath": "../front/.env"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "required": "{field} обязательно для заполнения",
+    "maxLength": "{field} должно иметь длину не более {limit} символов",
+    "minLength": "{field} должно иметь длину не менее {limit} символов",
+    "between": "{field} должно иметь значение между {limitLow} и {limitHigh}",
+    "email": "Невалидный email"
+}

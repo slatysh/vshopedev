@@ -1,0 +1,17 @@
+{
+  "login": "Логин",
+  "register": "Регистрация",
+  "password": "Пароль",
+  "email": "Email",
+  "createAnAccount": "Создать аккаунт",
+  "alreadyHaveAnAccount": "Уже есть аккаунт? ",
+
+  "doYouAcceptTheTermsAndConditions": {
+    "t1": "Вы принимаете ",
+    "l1": "положения ",
+    "t2": "и ",
+    "l2": "условия"
+  },
+  "loginExceptionUserNotExist": "Такого аккаунта нет",
+  "loginExceptionUserNotConfirmed": "Аккаунт не подтвержден"
+}

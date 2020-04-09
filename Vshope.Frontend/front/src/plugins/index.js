@@ -1,0 +1,6 @@
+import './axios'
+import './chartist'
+import './vuetify'
+import './vuelidate'
+import './vueMaterial'
+import './vueMoment'

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="%2a%2a\**" />
+    <Compile Remove="front\node_modules\**" />
+    <EmbeddedResource Remove="%2a%2a\**" />
+    <EmbeddedResource Remove="front\node_modules\**" />
+    <None Remove="%2a%2a\**" />
+    <None Remove="front\node_modules\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="%2a%2a/%2a" />
+  </ItemGroup>
+
+</Project>
